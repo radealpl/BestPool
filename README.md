@@ -9,6 +9,9 @@ The Miner must be in the folerminers/zminer
 Coins/pools can be edited by the program or manually in the pools.xml file
 Please, change the coin addresses before launching.
 
+After configuration enableauto start and autoswitching mode
+
+
 Sample implementation: BTCZ, BTCP, BTG, SnowGem, ZCash
 
 You may add your favourite coins.
