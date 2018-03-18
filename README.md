@@ -11,6 +11,7 @@ Please, change the coin addresses before launching.
 
 After configuration enableauto start and autoswitching mode
 
+Download ZIP from "Release". EWBF is included in 0.3.4b version.
 
 Sample implementation: BTCZ, BTCP, BTG, SnowGem, ZCash
 
